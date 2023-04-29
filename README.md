@@ -3,7 +3,9 @@ Project UTS Grafkom Kelompok 12
 
 Anggota :
 Markus Nugraha Sembodo / C14210251
+
 Calvin Ananthapindika  / C14210022
+
 Ricky Oktava Luzendra  / C14190036
 
 Link Laporan :
